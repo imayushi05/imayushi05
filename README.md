@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Ayushi Priya 👋
 
-<!--
-**imayushi05/imayushi05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **CSE Student | Python • C++ • Java • JavaScript | Full-Stack Development | Open Source**
 
-Here are some ideas to get you started:
+I’m a Computer Science Engineering student who enjoys building projects, learning new technologies, and contributing to open source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm focused on
+
+- 🌐 Full-Stack Development with Python
+- 🧠 Data Structures & Algorithms
+- 🛠️ Building practical projects
+- 🤝 Open Source Contributions
+
+### 🛠️ Tech Stack
+
+**Languages:** Python · C++ · Java · JavaScript  
+**Web:** HTML · CSS · JavaScript  
+**Interests:** Full-Stack Development · DSA · Open Source
+
+### 🌱 Currently
+
+- Building my development skills through hands-on projects
+- Exploring open source and real-world codebases
+- Improving my problem-solving and DSA skills
+
+### 🤝 Open Source
+
+Proud to have my first open-source contribution merged in **Kestra Blueprints** 🎉
+
+I’m also participating in **Mergetober 2026** and exploring more open-source contributions.
+
+### 📌 Projects
+
+Check out my repositories below — I'm continuously adding and improving projects as I learn.
+
+---
+
+⭐ **Always learning. Always building.**
