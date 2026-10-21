@@ -1,6 +1,6 @@
 # Ayushi Priya — Developer Portfolio
 
-A responsive, minimalist portfolio built with HTML, CSS, and vanilla JavaScript. It is designed as a lightweight static site and deployed to GitHub Pages with GitHub Actions.
+A responsive, minimalist portfolio built with HTML, CSS, and vanilla JavaScript. Designed as a lightweight static site and deployed to GitHub Pages with GitHub Actions.
 
 **Live portfolio:** https://imayushi05.github.io/  
 **LinkedIn:** https://www.linkedin.com/in/ayushipriya05/  
@@ -10,30 +10,29 @@ A responsive, minimalist portfolio built with HTML, CSS, and vanilla JavaScript.
 
 I’m Ayushi Priya, a B.Tech Computer Science and Engineering student at Supaul College of Engineering, affiliated with Bihar Engineering University (BEU), Patna. My degree timeline is December 2024–June 2028.
 
-I’m building skills in Python, C/C++, Java, HTML, CSS, JavaScript, Git/GitHub, full-stack development with Python, data structures and algorithms, and exploring AI/ML and cloud technologies. I’m also a GeeksforGeeks Campus Mantri and completed a Robotics and AI internship with Robomanthan (August–September 2026).
+I’m building skills in Python, C/C++, Java, HTML, CSS, JavaScript, Git/GitHub, full-stack development with Python, and data structures and algorithms. I’m also exploring AI/ML, cloud technologies, and open-source collaboration. I’m a GeeksforGeeks Campus Mantri and completed a Robotics and AI internship with Robomanthan in August–September 2026.
 
-## Featured work & learning
+## Featured work
 
-- **PadhAI (ExamSaathi)** — [repository fork](https://github.com/imayushi05/padhai-exam-saathi). The project README describes an AI study companion for explaining uploaded notes/pages and generating practice questions. This repository is a fork; the portfolio avoids claiming sole ownership or unverified individual contributions.
-- **Kestra Blueprints** — [repository](https://github.com/imayushi05/blueprints). Exploring open-source collaboration in the Kestra Blueprints ecosystem. My GitHub profile README notes that my first open-source contribution was merged; the specific contribution link can be added once confirmed.
-- **Google Cloud / GeeksforGeeks learning** — hands-on student learning activities and skill badges.
-- **Certifications & participation** — Python Essentials 1 and 2; NASSCOM AI Code Sarathi AI-assisted Coding Workshop; Google 5-Day AI Agents Intensive Course; First Commit (Bharat Builds Tour) participation certificate.
+- **Kestra Blueprints — GitHub Actions flaky workflow detector:** My contribution adds a Kestra Blueprint that analyzes recent GitHub Actions workflow outcomes, combines failure-rate and success/failure transition signals, and can alert Slack when evidence suggests flaky CI. It was merged into the official Kestra Blueprints repository. [View merged PR #679](https://github.com/kestra-io/blueprints/pull/679).
+- **PadhAI (ExamSaathi):** A study-support project described in the repository as an AI-assisted tool that explains uploaded notes or textbook pages and generates practice questions, with Hindi/English support. This is a fork of a team hackathon repository; I do not claim sole ownership of the project. [View fork](https://github.com/imayushi05/padhai-exam-saathi).
+- **Google Cloud / GeeksforGeeks learning:** Hands-on cloud learning activities and student skill challenges.
 
-## Tech stack
+## Skills
 
-HTML · CSS · JavaScript · Python · C · C++ · Java · Git · GitHub
+HTML · CSS · JavaScript · Python · C · C++ · Java · Git · GitHub · DSA (learning) · AI/ML (exploring) · Cloud fundamentals (learning)
 
-## Features
+## Certificates and participation
 
-- Responsive layout and mobile navigation
-- About, projects, skills, experience, education, and contact sections
-- Lightweight static files with no framework or build step
-- GitHub Actions workflow for GitHub Pages deployment on pushes to `main`
-- Reduced-motion support and keyboard focus styles
+- Python Essentials 1
+- Python Essentials 2
+- NASSCOM AI Code Sarathi — AI-assisted Coding Workshop
+- Google 5-Day AI Agents Intensive Course
+- First Commit (Bharat Builds Tour) participation certificate
 
 ## Run locally
 
-No dependencies are required:
+No dependencies or build step are required:
 
 ```bash
 git clone https://github.com/imayushi05/imayushi05.git
@@ -50,9 +49,9 @@ The repository includes [`.github/workflows/deploy.yml`](.github/workflows/deplo
 1. Open **Settings → Pages** in this repository.
 2. Under **Build and deployment → Source**, select **GitHub Actions**.
 3. Open the **Actions** tab and confirm the **Deploy portfolio to GitHub Pages** workflow completes.
-4. The expected site URL is https://imayushi05.github.io/.
+4. Your expected site URL is https://imayushi05.github.io/.
 
-If the workflow does not deploy, check the repository Pages source setting and the latest run in the Actions tab.
+If deployment does not start, check that the Pages source is set to GitHub Actions and inspect the latest Actions run.
 
 ## Contact
 
@@ -62,4 +61,4 @@ If the workflow does not deploy, check the repository Pages source setting and t
 
 ---
 
-*Portfolio details are based on my LinkedIn profile export and public GitHub repository information. Project roles and contribution claims are intentionally conservative where exact PR/task details have not been confirmed.*
+*Portfolio details are based on my LinkedIn profile export and public GitHub repositories. Project descriptions distinguish the merged open-source contribution from a forked hackathon project.*
