@@ -22,6 +22,13 @@ jobs:
         uses: actions/checkout@v4
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
+      - name: Validate static site
+        run: |
+          test -f index.html
+          test -f styles.css
+          test -f script.js
+          grep -q 'id="work"' index.html
+          grep -q 'github-actions-flaky-workflow-detector' index.html
       - name: Upload static site
         uses: actions/upload-pages-artifact@v3
         with:
