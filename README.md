@@ -2,7 +2,7 @@
 
 A modern, responsive personal portfolio built with plain HTML, CSS, and JavaScript and deployed to GitHub Pages through GitHub Actions.
 
-**Live site:** After the first successful workflow run, visit https://imayushi05.github.io/imayushi05/
+**Expected live site:** https://imayushi05.github.io/
 
 ## About
 
@@ -44,7 +44,7 @@ Then open http://localhost:8000.
 2. Go to **Settings → Pages**.
 3. Under **Build and deployment → Source**, select **GitHub Actions**.
 4. Open the **Actions** tab and check the **Deploy portfolio to GitHub Pages** workflow.
-5. Once deployment succeeds, the site should be available at https://imayushi05.github.io/imayushi05/.
+5. Once deployment succeeds, the site should be available at https://imayushi05.github.io/.
 
 Every push to `main` triggers a new deployment. GitHub Pages is public, so do not commit private information or secrets.
 
